@@ -1,1 +1,42 @@
-/* This is for styling. */
+#fist{
+    height:500px;
+}
+
+#firstp{
+    
+    margin-left:27%;
+    margin-top:-17%;
+}
+
+#sec{
+    height:500px;
+    margin-left:80%;
+}
+
+
+.secondp{
+    margin-left:27%;
+    margin-top:-40%;
+}
+
+
+#thid{
+    height:500px;
+    
+}
+
+.thirdp{
+    
+    margin-left: 25%;
+    margin-top:-18%;
+}
+
+#fout{
+    height:500px;
+    margin-left:78%;    
+}
+.fourp{
+    margin-left:25%;
+    margin-top:-45%;
+
+}
