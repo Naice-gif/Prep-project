@@ -14,7 +14,11 @@ h1{
     margin-left:35%;
     margin-top:-20%;
 }
-
+.yuo{
+    margin-top:-10%;
+    margin-left:3%;
+    
+}
 
 
 #sec{
@@ -62,7 +66,7 @@ h2{
 }
 
 h3{
-    color:skyblue;
+    color:red;
     font-family:Arial, Helvetica, sans-serif;
 
 }
